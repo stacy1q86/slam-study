@@ -1,2 +1,3 @@
 # slam-study
-used forstudy slam
+used for study slam
+it's edited
